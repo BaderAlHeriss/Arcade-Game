@@ -1,0 +1,17 @@
+html, 
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.level {
+  font-size: 50px;
+  color: orange;
+  padding-top: 20px;
